@@ -359,4 +359,3 @@ function onCreate(is_world_create)
 		
 	end
 end
-
